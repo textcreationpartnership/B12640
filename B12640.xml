@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An acte for the amendynge of hyghe wayes</title>
+            <title>Proclamations. 1555-10-21</title>
+            <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1555</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12640</idno>
+            <idno type="STC">STC 7867.5</idno>
+            <idno type="STC">ESTC S112986</idno>
+            <idno type="EEBO-CITATION">99848227</idno>
+            <idno type="PROQUEST">99848227</idno>
+            <idno type="VID">176925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B12640)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 719:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An acte for the amendynge of hyghe wayes</title>
+                  <title>Proclamations. 1555-10-21</title>
+                  <author>England and Wales. Sovereign (1553-1558 : Mary I)</author>
+                  <author>Mary I, Queen of England, 1516-1558.</author>
+               </titleStmt>
+               <extent>2 leaves   </extent>
+               <publicationStmt>
+                  <publisher>In ædibus Iohannis Cavvodi typographi regiæ maiestatis,</publisher>
+                  <pubPlace>[Excusum Londini :</pubPlace>
+                  <date>Anno.M.D.LV. [1555]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Identified as STC 7867a on reel 719.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Highway law --  Great Britain --  Early works to 1800.</term>
+               <term>Roads --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176925:1"/>
+            <head>¶ An Acte for the amendynge of hyghe wayes.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or amending of high waies being now bothe very noyſome and tedious to trauaile in, and daungerous to al paſſengers, and cariages. Be it enacted by thauctoritie of this preſente parliament, that the conſtables and church wardens of euery pariſhe within this realme, ſhall yerely vpon the tweſdaye or wedneſdaye in Eaſter weke, cal together a numbre of the pa<g ref="char:EOLhyphen"/>rochians, and ſhall then elect and chuſe two honeſt perſons of the pariſhe, to be ſurueyours and orderers for one yere, of the workes for amendement of the high waies in their pariſhe, leading to any market towne, the which perſons ſhal haue aucthoritie by vertue hereof to order and directe the perſons and ca<g ref="char:EOLhyphen"/>riages that ſhalbe appointed for thoſe workes by their diſcretions, and the ſaid perſons ſo na<g ref="char:EOLhyphen"/>med ſhal take vpon them the execution of their ſaid offices vpon payne euery of them making defaulte to forfeyte twenty ſhillinges. And the ſaide conſtables and churchwardens ſhal then alſo name and appoint foure daies for thamendinge of the ſaide waies before the feaſte of the natiuitie of S. Iohn Baptiſt then next folowing. And ſhal openly in the church the next ſon<g ref="char:EOLhyphen"/>day after Eaſter geue knowledge of the ſame foure daies, and vpon the ſaide daies the paro<g ref="char:EOLhyphen"/>chians ſhal endeuour them ſelues to the amendinge of the ſayde waies, and ſhalbe chargeable therevnto as foloweth, that is to ſay, euerye perſon for euery plowlande in tillage or paſture, that he or ſhe ſhal occupie in the ſame pariſhe, and euery other perſon kepinge there a draught, or plow, ſhal finde &amp; ſende at euery day &amp; place to be appointed for the ame<g ref="char:cmbAbbrStroke">̄</g>ding of the waies in that pariſhe as is aforeſaid, one wayne or cart furniſhed after the cuſtome of the cou<g ref="char:cmbAbbrStroke">̄</g>trey, with oxen, horſes, or other cattell, and all other neceſſaries mete to cary thinges conuenient for that purpoſe, and alſo able men with the ſame, vpon paine of euery draught makinge defaulte ten ſhillinges, and euery other houſholder, &amp; alſo euery cottiger &amp; labourer, of that pariſhe able to labour &amp; being no hyred ſeruaunte by the yere, ſhall by the<g ref="char:cmbAbbrStroke">̄</g>ſelues, or one ſufficient labourer for euery of them vpon euery of the ſaid foure daies, worke &amp; trauel in thamendement of the ſayd highwaies vpon paine of euery perſon making default to loſe for euery daye .xii. pence. And if the cariages of the pariſhe or any of them ſhal not be thought nedefull by the ſuperuiſours to be occupied vpon any of the ſayd daies, that then euery ſuch perſon that ſhould haue ſent any ſuche cariage, ſhal ſend to the ſayd worke for euery cariage ſo ſpared, two able men, there to la<g ref="char:EOLunhyphen"/>bour for that day, vpon paine to loſe for euery man not ſo ſent to the ſaid worke, xii. pence. And euery perſon and cariage aboue ſaide, ſhal haue and bring with them ſuch ſhouels, ſpades, pic<g ref="char:EOLhyphen"/>kes, mattockes, and other toles, and inſtrumentes, as they do make theyr owne diches and fences withal, and ſuch as be neceſſary for their ſaid worke. And al the ſayd perſons and cari<g ref="char:EOLhyphen"/>ages ſhal do and kepe theyr worke, as they ſhalbe appoynted by the ſayd ſuperuiſours, or one of them, eyght houres of euery of the ſayde dayes, onles they ſhalbe otherwyſe lycenſed by the ſayde ſuperuiſours, or one of them.</p>
+            <p>And be it enacted by the aucthoritie aforeſayde, that the Stewarde, and Stewardes of euery lete and lawdaye, ſhall therein haue full power and aucthoritie, to enquyre by the othes of the ſuters of all and euery thoffences that ſhalbe committed within the lete or lawdaye, agaynſt euery poynte, and article of this eſtatute, and to aſſeſſe ſuche reaſonable fynes, and amerciamentes for the ſame, as ſhalbe thought mete by the ſayde Stewarde. And in default of ſuche enquyre, or preſentment, the iuſtices of peace of euery place or county, ſhal haue auc<g ref="char:EOLhyphen"/>torytye to enquyre of the ſame offences, which ſhalbe commytted within the lymyttes of their
+<pb facs="tcp:176925:2"/> commiſſion at euery their quarter ſeſſions, and to aſſeſſe ſuch fines therfore, as they or two of them, wherof one to be of the Quorum, ſhal thinke mete. And the ſtuward of euery lete &amp; law<g ref="char:EOLhyphen"/>day ſhal make eſtreates endented of al the fines, forfeytures, and amerciamentes, for the de<g ref="char:EOLhyphen"/>faultes preſented before him, &amp; ſhall deliuer thone parte therof, ſealed and ſigned by him to the bailife or high conſtable of euery hundred rape, lath, or wapentake, wherin the defaultes ſhal be preſented, and thother halfe to the conſtable and churchwarde<g ref="char:cmbAbbrStroke">̄</g>s of the pariſhe, wherin the defaultes was made, the ſame to be yerelye deliuered within ſixe wekes after the feaſt of S. Michell tharchangell, and the clarke of the peace ſhall make the like eſtreates endented of the fines, forfeytures, and amerciamentes for the defaultes preſented before the Iuſtices of peace and ſhal ſeale, ſubſcribe and deliuer the ſame, in like ſort as is aforeſayde, the which eſtreates &amp; euery of the<g ref="char:cmbAbbrStroke">̄</g>, ſhalbe a ſufficient warrant to the ſaid bailife or chiefe conſtable, to leuie the ſaid amerciamentes, fines, and forfeytures, by way of diſtreſſe. And if no ſufficient diſtreſſe can be founde by the ſaid bailife or head conſtable, or if the ſayde offender ſhal obſtinatly refuſe to pay the ſaid amerciament, fine, or forfeyture, and do not pay the ſame within twenty daies after a lawful demaunde of the ſame by the ſayde officer, that then euery ſuche perſon to forfeyte the doble ſomme that he ſhould before haue payde.</p>
+            <p>And be it further enacted, that euery of the ſaid bailifes &amp; head conſtables ſhall at the leaſte once euery yere betwixte the firſt day of Marche &amp; the laſt day of Aprill, make a true accompt and paiment of al ſuch ſommes of money (to the conſtable &amp; churchwardens of euery pariſhe wherin the offences was co<g ref="char:cmbAbbrStroke">̄</g>mitted or to two of them) as he ſhal haue collected vpon any of the aforeſaid eſtreates, vpon paine to forfeyte for euery time he ſhall not ſo do .xl. ſhillinges.</p>
+            <p>And be it enacted by thaucthoritie aforeſaide, that al fines, amerciamentes, and forfeytu<g ref="char:EOLhyphen"/>res, which ſhalbe dew for any offence againſt the puruey of this eſtatute, ſhalbe to the church<g ref="char:EOLunhyphen"/>wardens of euery pariſhe wherin thoffe<g ref="char:cmbAbbrStroke">̄</g>ces ſhalbe co<g ref="char:cmbAbbrStroke">̄</g>mitted, to be beſtowed of the highwaies in the ſaide pariſhes, and the ſayde churchwardens ſhal haue aucthoritie to call the ſaide bay<g ref="char:EOLhyphen"/>life and headconſtable to accompt before the Iuſtices of peace or two of them, whereof one to be of the Quoru<g ref="char:cmbAbbrStroke">̄</g>, by bil, infourmation or otherwiſe. The which Iuſtices ſhal haue auctoritie to take the ſayde accompt, and to commit the ſaide baillife or headconſtable to priſon there to re<g ref="char:EOLhyphen"/>mayne vntil he ſhal pay al ſuch arrerages as ſhalbe adiudged by the ſaid Iuſtices, and euerye of the ſaid bailifes &amp; headconſtables vpon their accomptes ſhal haue allowed for euery pound he ſhal collect and pay, viii. pence for his owne paines, and .xii. pence for the fees of the clarke of the peace or ſtewarde of the lete for theſtreates endented of euery ſeuerall pariſhe that they ſhal deliuer as is aforeſaid, &amp; the ſucceſſours of euery churchwardens ſhal haue the like action of accompt againſt their predeceſſours as is before appoynted agaynſt the bailifes. This act to continue for ſeuen yeres next after the beginning of this parliament. And to the ende of the next parliament then next folowynge.</p>
+            <closer>God ſaue the Kynge and the Quene.</closer>
+         </div>
+      </body>
+      <back>
+         <div xml:lang="lat" type="colophon">
+            <p>EXCVSVM LONDINI IN AEDIBVS <hi>IOHANNIS CAVVODI TYPOGRAPHI REGIAE MAIESTATIS.</hi> Anno. <hi>M.D.LV.</hi>
+            </p>
+         </div>
+         <div xml:lang="lat" type="license">
+            <p>Cum priuilegio ad imprimendum ſolum.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
